@@ -1,2 +1,2 @@
-# Data-Wrangling-project-in-Python
-This is a part of data analysis process in Python on a dataset of House Sales in King County, USA
+# Data-Wrangling-in-Python
+This is data pre-processing on a dataset of House Sales in King County, USA
